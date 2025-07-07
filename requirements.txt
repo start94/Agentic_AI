@@ -1,0 +1,8 @@
+crewai
+langchain-openai
+python-dotenv
+SpeechRecognition
+openai
+langchain
+langgraph
+langchain-core
